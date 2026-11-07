@@ -1,0 +1,3 @@
+[build]
+  # Nitro's Netlify preset emits public assets into dist.
+  publish = "dist"
